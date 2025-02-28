@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'bienvenido cuantos mililitros de perfume desea'
+5
+1
+5
+n_mil
+6
+3
+3
+sub
+10
+n_mil*4500
+3
+iva
+12
+(sub*19)/100
+7
+t_pagar
+7
+sub+iva
+4
+1
+52
+'Sr(a) usuario usted debe pagar: ' ,t_pagar, 'pesos'
+1

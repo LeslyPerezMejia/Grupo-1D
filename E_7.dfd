@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Bienvenido digite el valor de su compra'
+5
+1
+8
+v_compra
+7
+0
+1
+15
+v_compra>180000
+4
+1
+13
+'pagar envio'
+6
+1
+7
+t_pagar
+14
+v_compra+20000
+4
+1
+46
+'Sr(a) usuario debe pagar: ' ,t_pagar, 'pesos'
+13
+4
+1
+14
+'envio gratis'
+6
+1
+7
+t_pagar
+8
+v_compra
+4
+1
+46
+'Sr(a) usuario debe pagar: ' ,t_pagar, 'pesos'
+13
+1

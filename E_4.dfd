@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'bienvenido debe digitar el valor de la comprar'
+5
+1
+5
+valor
+4
+1
+47
+'ahora digite el descuento que se va a apiclar'
+5
+1
+9
+descuento
+6
+2
+9
+descuento
+21
+(valor*descuento)/100
+7
+t_pagar
+15
+valor-descuento
+4
+1
+61
+'Hola Sr(a) usuario usted debe pagar: ' , t_pagar , ' Pesos '
+1

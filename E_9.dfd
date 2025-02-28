@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'Bienvenido digite su edad y seguidamente el valor de su compra'
+5
+1
+9
+edad, v_c
+7
+0
+1
+8
+edad>=60
+6
+2
+9
+descuento
+8
+v_c*0.05
+7
+t_pagar
+13
+v_c-descuento
+4
+1
+53
+'Sr(a) usuario usted debe pagar: ' ,t_pagar, ' Pesos'
+13
+6
+2
+9
+descuento
+8
+v_c*0.15
+7
+t_pagar
+13
+v_c-descuento
+4
+1
+53
+'Sr(a) usuario usted debe pagar: ' ,t_pagar, ' Pesos'
+13
+1

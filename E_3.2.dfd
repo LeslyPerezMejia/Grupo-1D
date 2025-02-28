@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+' bienvenido escriba cuantas empar-ranas quiere '
+5
+1
+5
+n_emp
+6
+1
+7
+t_pagar
+10
+n_emp*7500
+4
+1
+66
+'señor usuario usted debe pagar' , t_pagar,'gracias por su compra'
+1
