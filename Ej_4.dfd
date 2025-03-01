@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digite el valor de su compra'
+5
+1
+3
+v_c
+7
+0
+1
+11
+v_c>=220000
+6
+1
+7
+t_pagar
+9
+v_c+31000
+4
+1
+48
+'Sr usuario usted de pagar: ' ,t_pagar, ' Pesos'
+13
+6
+1
+7
+t_pagar
+3
+v_c
+4
+1
+48
+'Sr usuario usted de pagar: ' ,t_pagar, ' Pesos'
+13
+1
