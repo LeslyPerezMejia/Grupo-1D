@@ -4,47 +4,23 @@
 1
 0
 0
-4
-1
-41
-'Bienvenido digite el valor de su compra'
 5
 1
-8
-v_compra
+14
+car, caro, cla
 7
 0
 1
-15
-v_compra>180000
+66
+(car=10 or car=20) and (caro=30 or caro=40) and (cla=50 or cla=60)
 4
 1
-13
-'pagar envio'
-6
-1
-7
-t_pagar
-14
-v_compra+20000
-4
-1
-46
-'Sr(a) usuario debe pagar: ' ,t_pagar, 'pesos'
+12
+'incorrecto'
 13
 4
 1
-14
-'envio gratis'
-6
-1
-7
-t_pagar
-8
-v_compra
-4
-1
-46
-'Sr(a) usuario debe pagar: ' ,t_pagar, 'pesos'
+10
+'correcto'
 13
 1

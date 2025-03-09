@@ -7,23 +7,40 @@
 5
 1
 11
-P_A,P_B,P_C
-6
-3
-4
-SUMA
-11
-P_A+P_B+P_C
-9
-DESCUENTO
-9
-SUMA*0.05
+sex, compra
 7
-T_PAGAR
-14
-SUMA-DESCUENTO
+0
+1
+5
+sex=1
+6
+2
+3
+des
+13
+compra * 0.10
+5
+total
+12
+compra - des
 4
 1
-7
-T_PAGAR
+5
+total
+13
+6
+2
+3
+des
+13
+compra * 0.20
+5
+total
+12
+compra - des
+4
+1
+5
+total
+13
 1
