@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+14
+edad, sex, val
+7
+0
+1
+34
+edad>=70 and sex=2 and val>=200000
+6
+1
+7
+t_pagar
+3
+val
+13
+6
+2
+3
+des
+8
+val*0.25
+7
+t_pagar
+7
+val-des
+13
+4
+1
+7
+t_pagar
+1

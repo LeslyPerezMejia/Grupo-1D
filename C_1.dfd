@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+'digita el valor de tu compra y seguidamente 1 si eres VIP y 2 si no'
+5
+1
+8
+com, vip
+7
+0
+1
+21
+com>=100000 and vip=1
+6
+1
+7
+t_pagar
+3
+com
+4
+1
+102
+'asociate a nuestros clientes VIP y sus muchos beneficios por el momento cancela: ' ,t_pagar, ' Pesos'
+13
+6
+2
+3
+des
+8
+com*0.15
+7
+t_pagar
+7
+com-des
+4
+1
+58
+'Gracias por ser cliente VIP cancela: ' ,t_pagar, ' Pesos'
+13
+1
