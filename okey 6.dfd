@@ -1,0 +1,151 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+p
+1
+1
+9
+1
+5
+p!= 5
+4
+1
+88
+'sr Usuario favor digitar su opcion en menu del 1 al 4 si elige el 5 se parara el ciclo'
+5
+1
+1
+p
+7
+0
+1
+3
+p=1
+13
+4
+1
+80
+'favor digite primero su base y despues su altura. Al final se mostrara su area'
+5
+1
+4
+b, h
+6
+1
+4
+area
+3
+b*h
+4
+1
+30
+'su area es de: ' , area, 'cm'
+13
+7
+0
+1
+3
+p=2
+13
+4
+1
+63
+'favor digite el lado del cuadrado al final se mostrar el area'
+5
+1
+1
+l
+6
+1
+4
+area
+3
+l*l
+4
+1
+30
+'su area es de: ' , area, 'cm'
+13
+7
+0
+1
+3
+p=3
+13
+6
+1
+3
+acu
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+7
+1
+1
+1
+4
+1
+29
+'sr usuario digite 8 valores'
+5
+1
+1
+n
+6
+1
+3
+acu
+5
+acu+n
+4
+1
+41
+'su total a pagar es de: ' ,acu, ' pesos'
+10
+13
+7
+0
+1
+3
+p=4
+13
+4
+1
+18
+'digite un numero'
+5
+1
+1
+n
+7
+0
+1
+10
+n mod 2= 0
+4
+1
+20
+'su numero es impar'
+13
+4
+1
+18
+'su numero es par'
+13
+13
+11
+1
